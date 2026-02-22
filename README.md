@@ -1,109 +1,128 @@
-# 🚀 Swapnil Ravindra Patil  
-**Full-Stack Developer | Backend Developer | AI Enthusiast**
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Swapnil Banner"/>
+</p>
+
+<h2 align="center">Full-Stack Developer | Backend Developer | Java Developer 🚀</h2>
+
+<p align="center">
+  📍 Nashik, Maharashtra, India • 🎓 B.E. Computer Engineering (2026)
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Summary
 
-🎓 B.E. Computer Engineering — JSPM's BSIOTR, Pune (CGPA: 8.70)  
-💼 Java Intern @ TalentBattle  
-🚀 Innovation Lead — CESA  
-🧠 IBM Certified — Enterprise-grade AI  
+Computer Engineering student and Full-Stack Developer with hands-on experience in Java, React, Node.js, and AI-powered web applications. Delivered freelance web solutions and built scalable products including an intelligent agriculture assistant and AI-enabled e-commerce platform.
 
-✨ Strong foundation in Java, React, Node.js & REST APIs  
-⚡ Passionate about AI-powered scalable web applications  
-🎯 Focused on clean architecture, performance & real-world solutions  
-
-I build modern, efficient and production-ready web applications.
+🚀 Innovation Lead at CESA  
+🏆 Active hackathon participant  
+🎯 Seeking entry-level Full-Stack or Backend Developer role  
 
 ---
 
 ## 💼 Experience
 
+### 🔹 Innovation Lead — CESA (Computer Engineering Students Association, Pune)  
+**Oct 2025 – Present**
+
+- Led innovation-driven technical initiatives and student activities  
+- Coordinated team members for successful event execution  
+- Reviewed and supervised project work  
+- Promoted collaborative technical learning  
+
+---
+
 ### 🔹 Java Intern — TalentBattle  
-- Implemented Core Java and OOP concepts  
-- Built backend mini-projects  
-- Worked with Collections and Exception Handling  
-- Improved debugging and problem-solving skills  
+**Jul 2025 – Aug 2025**
+
+- Completed structured training in Core Java and OOP  
+- Built Java mini-projects to strengthen backend skills  
+- Applied inheritance, polymorphism, encapsulation  
+- Improved debugging and problem-solving  
+
+---
 
 ### 🔹 Freelance Web Developer  
-- Developed responsive websites for clients  
-- Integrated REST APIs and databases  
-- Managed UI/UX improvements  
-- Delivered SEO-friendly and fast web apps  
+**2024 – Present**
+
+- Designed responsive websites for small business clients  
+- Converted client requirements into optimized solutions  
+- Provided basic digital marketing support  
 
 ---
 
 ## 🚀 Projects
 
-### 🛒 AI-Powered Nike E-Commerce  
-- AI shoe recommendation assistant  
-- Modern React + Vite frontend  
-- Secure API integration  
-- Scalable product architecture  
-**Tech:** React, Node.js, REST APIs, AI Integration  
-
-🔗 Live: https://nike-v3-shoes-swap.vercel.app/
-
----
-
 ### 🌱 Agrinova — Smart Agriculture System  
-- Plant data analysis  
-- Land area estimation  
-- Season-based crop suggestions  
-- Farmer-friendly dashboard  
+**Mar 2025 – Present**
+
+- Agriculture assistance system analyzing plant & land data  
+- Season-based crop recommendation  
+- Responsive user-friendly interface  
+
 **Tech:** JavaScript, APIs, Data Processing  
 
 ---
 
-### 📝 Multi-User To-Do Application  
-- Room-based collaboration  
-- Real-time updates  
-- Authentication system  
-- Clean responsive UI  
-**Tech:** Node.js, Firebase, JavaScript  
+### 🛒 Nike-Inspired E-Commerce Web Application  
+**Dec 2025 – Feb 2026**
+
+- Modern e-commerce platform using React & Node.js  
+- AI-powered product recommendation assistant  
+- Secure API handling and responsive UI  
+
+🔗 Live: https://nike-v3-shoes-swap.vercel.app/
+
+**Tech:** React, Node.js, REST APIs, AI  
 
 ---
 
 ## 🧰 Technical Skills
 
-**Languages:**  
-Java • JavaScript • Python • SQL  
+**Programming:**  
+Java • C++ • Python • JavaScript  
 
-**Frontend:**  
-React.js • HTML5 • CSS3 • Bootstrap  
+**Web Development:**  
+HTML • CSS • JavaScript • React • Bootstrap  
 
-**Backend:**  
-Node.js • REST APIs • Firebase • MySQL  
+**Backend & Database:**  
+Node.js • REST API • MySQL • Firebase  
 
-**Core CS:**  
+**Core Concepts:**  
 DSA • OOP • DBMS  
 
 **Tools:**  
-Git • GitHub • VS Code • Postman • Figma  
+Git • GitHub • Postman • VS Code • Figma  
 
-**Special Interests:**  
-AI Integration • Full-Stack Development • Backend Systems  
+**Other:**  
+AI Integration • Prompt Engineering  
 
 ---
 
-## 🏆 Achievements
+## 🏆 Key Achievements
 
 🥋 National & International Medalist — Karate, Kickboxing, Taekwondo  
-🎖️ Innovation Lead — CESA  
-📜 IBM SkillsBuild AI Certification  
-🚀 Built multiple AI-powered web applications  
+📜 IBM SkillsBuild Certification — Enterprise-grade AI  
+🚀 Innovation Lead — CESA  
+🏅 State-Level School Sports Selection  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Swapnil-P-002&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-P-002&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
 📧 Email: swapnilpatil2005980098@gmail.com  
-💼 LinkedIn: YOUR_LINKEDIN_LINK  
-🌐 Portfolio: YOUR_PORTFOLIO_LINK
+📱 Phone: +91-8956132407  
+💼 LinkedIn: https://linkedin.com/in/swapnil-r-patil  
+🌐 GitHub: https://github.com/Swapnil-P-002  
+
+---
+
+⭐ From [Swapnil-P-002](https://github.com/Swapnil-P-002)
