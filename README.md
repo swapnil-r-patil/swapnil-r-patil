@@ -98,7 +98,7 @@ AI Integration • Full-Stack Development • Backend Systems
 
 ## 📊 GitHub Stats
 
-![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Swapnil-P-002&show_icons=true&theme=tokyonight)
 
 ---
 
