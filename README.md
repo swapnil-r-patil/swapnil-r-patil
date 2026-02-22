@@ -95,11 +95,12 @@
 
 ## 📫 Contact
 
-📍 Nashik, Maharashtra, India
-📧 [swapnilpatil2005980098@gmail.com](mailto:swapnilpatil2005980098@gmail.com)
-📱 +91-8956132407
-🔗 https://linkedin.com/in/swapnil-r-patil
-🌐 https://github.com/Swapnil-P-002
+📍 Nashik, Maharashtra, India  
+📧 Email: [swapnilpatil2005980098@gmail.com](mailto:swapnilpatil2005980098@gmail.com)  
+📱 Phone: +91-8956132407  
+💼 LinkedIn: [swapnil-r-patil](https://linkedin.com/in/swapnil-r-patil)  
+🌐 Portfolio: [View My Portfolio](https://my-portfolio-swapnil-patil.vercel.app/)  
+🐙 GitHub: [Swapnil-P-002](https://github.com/Swapnil-P-002)
 
 ---
 
