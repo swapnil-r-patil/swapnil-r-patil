@@ -28,15 +28,6 @@ I build clean, efficient, and production-ready web applications that solve real-
 
 ---
 
-## 💼 Experience
-
-### 🔹 Innovation Lead — CESA
-
-* Led innovation-driven technical initiatives
-* Coordinated teams for successful events
-* Supervised project quality
-* Promoted collaborative development
-
 ### 🔹 Java Intern — TalentBattle
 
 * Implemented Core Java and OOP principles
