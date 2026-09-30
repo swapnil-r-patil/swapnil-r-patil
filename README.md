@@ -101,7 +101,7 @@
 💼 LinkedIn: [swapnil-r-patil](https://linkedin.com/in/swapnil-r-patil)  
 🌐 Portfolio: [View My Portfolio](https://swapnil-portfolio-v2.vercel.app/)  
 🐙 GitHub: [swapnil-r-patil](https://github.com/swapnil-r-patil)\
-📄 Resume: [Resume](https://drive.google.com/file/d/14VIs5bbzeII6ZPV9s-BJRK2k7i--M9JX/view?usp=sharing)\
+📄 Resume: [Resume](https://drive.google.com/file/d/14VIs5bbzeII6ZPV9s-BJRK2k7i--M9JX/view?usp=sharing)
 
 ---
 
